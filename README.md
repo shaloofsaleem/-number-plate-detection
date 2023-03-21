@@ -67,7 +67,7 @@ A computer vision program to detect the number plate of the vehicles and extract
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colaboratory](https://res.cloudinary.com/nholmber/image/upload/v1536751563/jupyter_colab_small_axbdcm.png)
-![make sense](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSkalskiP%2Fmake-sense&psig=AOvVaw0-R84xOFwO52-HmYPVi4c4&ust=1679489572330000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJikja6I7f0CFQAAAAAdAAAAABAE)
+![make sense](https://repository-images.githubusercontent.com/191981426/3981ea80-a62f-11e9-9815-cd3293dbdd22)
 
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
