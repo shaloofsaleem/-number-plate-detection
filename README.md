@@ -147,7 +147,7 @@ Light Mode
 <p align="center">
 Dark Mode
 </p>
-<img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/dark-mode.png">
+<img src="https://github.com/shaloofsaleem/-number-plate-detection/blob/main/model/train_batch2.jpg?raw=true">
 </td> 
 </table>
 <br/>
