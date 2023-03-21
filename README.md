@@ -47,7 +47,7 @@
 
 <br>
 <p align='center'>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DrZyY2pNzypQ&psig=AOvVaw32ijdEvexXzOxIlcu8z4CR&ust=1679487063611000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLC7tIH_7P0CFQAAAAAdAAAAABAR" width='70%' >
+<img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2021/06/yolo-v5-vs-others.png" width='70%' >
 </p>
 <br>
 
@@ -122,7 +122,7 @@ Use the YOLOv5 train.py script to train your custom numberplate detection model.
 ```
 !python detect.py --weights  runs/train/exp2/weights/best.pt --img 640 --conf 0.25 --source /content/drive/MyDrive/Yolov5Numberplate/yellow.jpeg
 ```
-# detect the video
+# Detect the video
 
 ```
 !python detect.py --weights  runs/train/exp2/weights/last.pt --img 640 --conf 0.25 --source /content/drive/MyDrive/Yolov5Numberplate/road.mp4
@@ -139,13 +139,13 @@ Use the YOLOv5 train.py script to train your custom numberplate detection model.
 
 <td width="50%">
 <p align="center">
-Light Mode
+Test Mode
 </p>
 <img src="https://github.com/shaloofsaleem/-number-plate-detection/blob/main/model/val_batch0_labels.jpg?raw=true">  
 </td>
   <td width="50%">      
 <p align="center">
-Dark Mode
+Train Mode
 </p>
 <img src="https://github.com/shaloofsaleem/-number-plate-detection/blob/main/model/train_batch2.jpg?raw=true">
 </td> 
