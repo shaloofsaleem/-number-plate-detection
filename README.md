@@ -144,7 +144,7 @@ Use the YOLOv5 train.py script to train your custom numberplate detection model.
 <p align="center">
 Test Mode
 </p>
-<img src="https://github.com/shaloofsaleem/-number-plate-detection/blob/main/model/val_batch0_labels.jpg?raw=true">  
+<img src="https://github.com/shaloofsaleem/Number-plate-detection-and-classification/blob/main/model/val_batch0_pred.jpg?raw=true">  
 </td>
   <td width="50%">      
 <p align="center">
