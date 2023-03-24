@@ -150,7 +150,7 @@ Test Mode
 <p align="center">
 Train Mode
 </p>
-<img src="https://github.com/shaloofsaleem/-number-plate-detection/blob/main/model/train_batch2.jpg?raw=true">
+<img src="https://github.com/shaloofsaleem/Number-plate-detection-and-classification/blob/main/model/val_batch0_pred.jpg?raw=true">
 </td> 
 </table>
 <br/>
